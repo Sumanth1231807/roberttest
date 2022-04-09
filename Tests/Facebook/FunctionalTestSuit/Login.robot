@@ -35,8 +35,6 @@ Google Test
 
 
 
-
-
 *** Keywords ***
 Enter Search Data
     Input Text  name:q  ${search_p}
